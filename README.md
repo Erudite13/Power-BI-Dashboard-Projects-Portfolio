@@ -17,7 +17,7 @@ Developed a dashboard to help e-commerce teams track sales performance, understa
 **🛠 Tools Used:** Power BI, DAX, Data Modeling, Map Visuals  
 
 **📷 Screenshot:**  
-![Blinkit Dashboard](screenshots/blinkit-dashboard.png)  
+![Blinkit Dashboard]([screenshots/blinkit-dashboard.png](https://github.com/Erudite13/Power-BI-Dashboard-Projects-Portfolio/blob/main/Blinkit-Data-Analysis/Blinkit-Dashboard.png))  
 *Replace with your actual screenshot path*
 
 ---
