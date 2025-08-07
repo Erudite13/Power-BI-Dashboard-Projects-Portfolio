@@ -36,7 +36,8 @@ Analyzed user listening behavior to support better content personalization and e
 **🛠 Tools Used:** Power BI, DAX, Slicers, Time Analysis  
 
 **📷 Screenshot:**  
-<img width="1341" height="738" alt="image" src="https://github.com/user-attachments/assets/7145bd04-1c1c-4dd5-8072-f82a83e0732f" />
+<img width="1337" height="747" alt="image" src="https://github.com/user-attachments/assets/7a8dd212-c03e-4cee-8e50-cfa013157aff" />
+
 
 
 ---
@@ -74,7 +75,7 @@ Enabled HR teams to understand attrition patterns and predict high-risk employee
 **🛠 Tools Used:** Power BI, DAX, Hierarchical Filters, Custom KPIs  
 
 **📷 Screenshot:**  
-
+<img width="1341" height="738" alt="image" src="https://github.com/user-attachments/assets/7145bd04-1c1c-4dd5-8072-f82a83e0732f" />
 
 ---
 
