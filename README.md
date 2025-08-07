@@ -17,8 +17,8 @@ Developed a dashboard to help e-commerce teams track sales performance, understa
 **🛠 Tools Used:** Power BI, DAX, Data Modeling, Map Visuals  
 
 **📷 Screenshot:**  
-![Blinkit Dashboard]([screenshots/blinkit-dashboard.png](https://github.com/Erudite13/Power-BI-Dashboard-Projects-Portfolio/blob/main/Blinkit-Data-Analysis/Blinkit-Dashboard.png))  
-*Replace with your actual screenshot path*
+<img width="1311" height="748" alt="Blinkit-Dashboard" src="https://github.com/user-attachments/assets/b0457b93-d929-4fb4-a001-4d9884de800f" />
+
 
 ---
 
@@ -36,7 +36,8 @@ Analyzed user listening behavior to support better content personalization and e
 **🛠 Tools Used:** Power BI, DAX, Slicers, Time Analysis  
 
 **📷 Screenshot:**  
-![Spotify Dashboard](screenshots/spotify-dashboard.png)
+<img width="1341" height="738" alt="image" src="https://github.com/user-attachments/assets/7145bd04-1c1c-4dd5-8072-f82a83e0732f" />
+
 
 ---
 
@@ -54,7 +55,8 @@ Provided insights on ride demand, driver performance, and high-traffic zones to 
 **🛠 Tools Used:** Power BI, DAX, Heatmaps, KPI Cards  
 
 **📷 Screenshot:**  
-![Uber Dashboard](screenshots/uber-dashboard.png)
+<img width="1309" height="723" alt="image" src="https://github.com/user-attachments/assets/cfd6197f-163a-4814-a968-606f33df9b46" />
+
 
 ---
 
@@ -72,7 +74,7 @@ Enabled HR teams to understand attrition patterns and predict high-risk employee
 **🛠 Tools Used:** Power BI, DAX, Hierarchical Filters, Custom KPIs  
 
 **📷 Screenshot:**  
-![HR Dashboard](screenshots/hr-dashboard.png)
+
 
 ---
 
