@@ -76,20 +76,3 @@ Enabled HR teams to understand attrition patterns and predict high-risk employee
 
 ---
 
-## 📂 Folder Structure
-
-📁 dashboards/
-│ ├── blinkit-analysis.pbix
-│ ├── spotify-dashboard.pbix
-│ ├── uber-analytics.pbix
-│ ├── hr-attrition-dashboard.pbix
-📁 screenshots/
-│ ├── blinkit-dashboard.png
-│ ├── spotify-dashboard.png
-│ ├── uber-dashboard.png
-│ ├── hr-dashboard.png
-📄 README.md
-
-
-
-## ⭐ Star this repo if you find these dashboards helpful!
